@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Reading List"
+    url: /readinglist/
+#  - title: "Portpolio"
+#    url: /portfolio/
+  - title: "Categories"
+    url: /categories/
+
+  - title: "Tag"
+    url: /tags/
+
+  - title: "Archive"
+    url: /archive/
+
+
+
+
+#  - title: "Category"
+#     url: /categories/

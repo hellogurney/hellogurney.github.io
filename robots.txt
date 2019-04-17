@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: http://hellogurney.github.io/sitemap.xml
+Sitemap: http://kunhee.kim/sitemap.xml

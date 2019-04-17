@@ -9,11 +9,11 @@ minimal_mistakes_skin    : default # "default"  "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "ko"
-title                    : "Hello Gurney"
+title                    : "Hello! Kunhee"
 title_separator          : "-"
 name                     : "KunHee Kim"
 description              : "일상"
-url                      : "https://hellogurney.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kunhee.kim" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hellogurney/hellogurney.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -22,7 +22,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : hellogurey-github-io
+    shortname            : kunhee-kim
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gurney"
+  name             : "KunHee"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "실천하고 싶다면,<br>말하기를 멈추고<br>움직여 시작하라.<br>-월트 디즈니-"
   location         : "Seoul"
@@ -95,7 +95,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "Gurney.kim"
+  facebook         : "kunheekk"
   foursquare       :
   github           : "hellogurney"
   gitlab           :
